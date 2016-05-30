@@ -1,2 +1,2 @@
-# KRC_Device.pretty
-KiCad Device footprint library
+# KUT_Device.pretty
+KUT KiCad Device footprint library
